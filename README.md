@@ -43,37 +43,38 @@
 
 <div align="center">
 
-<!-- Row 1 (3) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin:10px"/>
+<!-- Row 1 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" style="margin:16px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="42" style="margin:16px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="42" style="margin:16px"/>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- Row 2 (4) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" style="margin:10px"/>
+<!-- Row 2 (slightly wider) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:18px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin:18px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin:18px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" style="margin:18px"/>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- Row 3 (4) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" style="margin:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" style="margin:10px"/>
+<!-- Row 3 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" style="margin:16px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" style="margin:16px"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin:16px"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin:16px"/>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- Row 4 (3) -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin:10px"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin:10px"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" style="margin:10px"/>
+<!-- Row 4 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="38" style="margin:14px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="38" style="margin:14px"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="38" style="margin:14px"/>
 
 </div>
 <br>
 <br>
 <br>
+<hr>
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
