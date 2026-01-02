@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Sonani</h1>
 <h3 align="center">Software Developer | B.Tech IT Student | Python & Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Python , Data Analytics , Data Science**
+<Br>
+<h1>About Me! 😎</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hd-sonani](https://github.com/hd-sonani)
+- 🏫: I’m a B.Tech Information Technology student.  
+- 🔭:I’m currently seeking internship opportunities in Python Development and Data Analytics.  
+- 🌱: I’m learning  Python, Data Analysis, Data Visualization, and Data Science.🧠💻🤖
+- 💬: Ask me about Python, SQL, Pandas, NumPy, Data Visualization, and Git. 📊📈🧠
 
-- 📫 How to reach me **hdsonani4318@gmail.com**
+<Br>
 
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
