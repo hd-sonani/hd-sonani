@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Harsh Sonani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Software Developer | B.Tech IT Student | Python & Data Enthusiast</h3>
 
-<Br>
+<p align="center">
+  <a href="https://github.com/hd-sonani">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Python%20%26%20Data%20Enthusiast&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+<hr>
 
 <h1>About Me! 😎</h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -98,3 +102,5 @@
          alt="react" width="40" height="40" style="margin:6px;"/>
   </a>
 </p>
+
+[footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
