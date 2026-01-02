@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Harsh Sonani</h1>
+<h1 align="center">Hi , I'm Harsh Sonani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Software Developer | B.Tech IT Student | Python & Data Enthusiast</h3>
 
 <Br>
+
 <h1>About Me! 😎</h1>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🏫: I’m a B.Tech Information Technology student.  
-- 🔭:I’m currently seeking internship opportunities in Python Development and Data Analytics.  
+- 🏫: I’m a B.Tech Information Technology student.
+ 
+- 🔭:I’m currently seeking internship opportunities in Python Development and Data Analytics.
+   
 - 🌱: I’m learning  Python, Data Analysis, Data Visualization, and Data Science.🧠💻🤖
+ 
 - 💬: Ask me about Python, SQL, Pandas, NumPy, Data Visualization, and Git. 📊📈🧠
-
+<Br><Br>
 <Br>
-
+<Br>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
