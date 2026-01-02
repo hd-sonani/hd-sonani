@@ -7,10 +7,15 @@
 
 - 📫 How to reach me **hdsonani4318@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://in.linkedin.com/in/harsh-sonani-895217304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh sonani" height="30" width="40" /></a>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://in.linkedin.com/in/harsh-sonani-895217304" target="blank"><img align="center" src="https://img.shields.io/badge/Harsh Sonani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hdsonani4318@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hdsonani4318@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hd-sonani" target="blank"><img align="center" src="https://img.shields.io/badge/hd_sonani-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+  
+<Br>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
